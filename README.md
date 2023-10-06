@@ -56,8 +56,11 @@ I'm deeply passionate about crafting seamless web experiences and have a knack f
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![gauravrupamrai's Stats](https://github-readme-stats.vercel.app/api?username=gauravrupamrai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![gauravrupamrai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravrupamrai&theme=vue-dark&hide_border=true)
+
+![gauravrupamrai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrupamrai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🤝 Let's Connect!
 I believe in the power of collaboration and the magic that emerges when brilliant minds come together. If you're intrigued by my work, have suggestions, or are interested in teaming up, let's embark on a journey of innovation together. Feel free to explore, raise issues, send pull requests, or simply reach out!
