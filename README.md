@@ -62,4 +62,4 @@ I'm deeply passionate about crafting seamless web experiences and have a knack f
 ## 🤝 Let's Connect!
 I believe in the power of collaboration and the magic that emerges when brilliant minds come together. If you're intrigued by my work, have suggestions, or are interested in teaming up, let's embark on a journey of innovation together. Feel free to explore, raise issues, send pull requests, or simply reach out!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gauravrupamrai.gauravrupamrai)
