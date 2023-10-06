@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working at [Dizzbo GmbH](https://www.dizzbo.com). Having around 10 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I'm Gaurav Sudarshan Rai, an aspiring Web Developer and Data Analyst with a fervent passion for creating, exploring, and diving deep into the realms of web development and data analysis. To see my profile in detail, I recommend looking at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravrai98/)
 
 ## Skills
 
@@ -53,17 +51,15 @@ I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## 📝 Top Blog Posts
-
--   [Frontend Testing Techniques](https://medium.com/faun/frontend-testing-techniques-71f1cfebe917)
--   [8 React Open-Source projects to learn and become a React.js Developer](https://medium.com/datadriveninvestor/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
--   [Understand NFT in Simple Words](https://medium.com/coinmonks/understand-nft-in-simple-words-2df9ce3fa4fb)
--   [Journey to Become a Blockchain Developer](https://medium.com/coinmonks/journey-to-become-a-blockchain-developer-ae31d062eb3a)
--   [Are we in NFT Bubble?](https://medium.com/coinmonks/are-we-in-nft-bubble-8a763f25b760)
+## 🚀 About Me
+I'm deeply passionate about crafting seamless web experiences and have a knack for creating responsive and user-friendly websites. My journey also extends to the world of data, where I harness the power of Python to uncover insights and weave narratives. From full-stack web applications to intricate data explorations, this space is a testament to my commitment to continuous learning, growth, and innovation.
 
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+
+## 🤝 Let's Connect!
+I believe in the power of collaboration and the magic that emerges when brilliant minds come together. If you're intrigued by my work, have suggestions, or are interested in teaming up, let's embark on a journey of innovation together. Feel free to explore, raise issues, send pull requests, or simply reach out!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
